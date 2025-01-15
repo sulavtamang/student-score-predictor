@@ -8,7 +8,7 @@ import streamlit as st
 
 st.set_page_config(
     page_title="Student Score Predictor",
-    page_icon="../assets/images/report-card_2893763.png",
+    page_icon="assets/images/report-card_2893763.png",
     layout="centered",
     initial_sidebar_state="expanded",
 )
