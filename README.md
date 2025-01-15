@@ -57,7 +57,7 @@ streamlit run app.py
 
 
 # 📂 Project Structure
-**student-score-predictor/
+student-score-predictor/
 │
 ├── app/
 │   └── app.py            
