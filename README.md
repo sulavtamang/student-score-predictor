@@ -59,32 +59,32 @@ streamlit run app.py
 # 📂 Project Structure
 **student-score-predictor/
 │
-├── app/                   # Application logic
-│   └── app.py             # Main Streamlit app script
+├── app/
+│   └── app.py            
 │
-├── assets/                # Static assets (images, styles)
-│   ├── images/            # Images and screenshots
+├── assets/                
+│   ├── images/            
 │
-├── datasets/              # Data files
-│   └── data.csv           # Dataset used for training
+├── datasets/              
+│   └── data.csv           
 │
-├── env/                   # Virtual environment files
+├── env/
 │
-├── models/                # Machine learning models
-│   └── linear_regression_model.pkl  # Trained regression model saved using joblib
+├── models/
+│   └── linear_regression_model.pkl 
 │
-├── src/                   # Source code for training and utilities
-│   ├── model.py           # Script for training the linear regression model
+├── src/                   
+│   ├── model.py
 │
-├── LICENSE                # License information
-├── README.md              # Project documentation
-└── requirements.txt       # Python dependencies for the project**
+├── LICENSE                
+├── README.md             
+└── requirements.txt       
 
 # 👨‍💻 Creator
 ***Sulav Man Sing Tamang***
 
-[GitHub](https://github.com/sulavtamang)
-[LinkedIn](https://www.linkedin.com/in/sulav-man-sing-tamang-269bb5190/)
+- [GitHub](https://github.com/sulavtamang)
+- [LinkedIn](https://www.linkedin.com/in/sulav-man-sing-tamang-269bb5190/)
 
 # 🚀 Future Enhancements
 - **📊 Data Visualization:** Add visualizations for scores and study hours.
@@ -92,4 +92,4 @@ streamlit run app.py
 - **🌐 Cloud Deployment:** Deploy the app on a cloud platform like Heroku or AWS for public access.
 
 # 📝 License
-This project is licensed under the MIT License. See the [LICENSE]() file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/sulavtamang/student-score-predictor/blob/main/LICENSE) file for more details.
