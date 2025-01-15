@@ -57,7 +57,30 @@ streamlit run app.py
 
 
 # 📂 Project Structure
-student-score-predictor/ ├── app/ # Application logic │ └── app.py # Main Streamlit app script ├── assets/ # Static assets (images, styles) │ └── images/ # Images and screenshots ├── datasets/ # Data files │ └── data.csv # Dataset used for training ├── env/ # Virtual environment files ├── models/ # Machine learning models │ └── linear_regression_model.pkl # Trained regression model saved using joblib ├── src/ # Source code for training and utilities │ └── model.py # Script for training the linear regression model ├── LICENSE # License information ├── README.md # Project documentation └── requirements.txt # Python dependencies for the project    
+```plaintext
+student-score-predictor/
+│
+├── app/
+│   └── app.py            
+│
+├── assets/                
+│   ├── images/            
+│
+├── datasets/              
+│   └── data.csv           
+│
+├── env/
+│
+├── models/
+│   └── linear_regression_model.pkl 
+│
+├── src/                   
+│   ├── model.py
+│
+├── LICENSE                
+├── README.md             
+└── requirements.txt     
+````  
 
 # 👨‍💻 Creator
 ***Sulav Man Sing Tamang***
