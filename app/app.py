@@ -2,7 +2,7 @@ import streamlit as st
 import numpy as np
 import joblib 
 
-model = joblib.load('../models/student_score_prediction_model.pkl')
+model = joblib.load('models/student_score_prediction_model.pkl')
 
 import streamlit as st
 
